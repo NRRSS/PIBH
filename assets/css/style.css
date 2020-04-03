@@ -363,7 +363,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero:before {
   content: "";
-  background: rgba(60, 65, 51, 0.4);
+  background: rgba(123, 128, 115, 0.4);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -408,13 +408,13 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px;
-  border: 2px solid #929028;
+  border: 2px solid #cb9832;
   text-transform: uppercase;
   color: #fff;
 }
 
 #hero .btn-get-started:hover {
-  background: #929028;
+  background: #cb9832;
 }
 
 @media (min-width: 1024px) {
@@ -602,7 +602,7 @@ section {
 .about .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#929028 50%, rgba(148, 192, 69, 0.4) 52%);
+  background: radial-gradient(#cb9832 50%, rgba(148, 192, 69, 0.4) 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
